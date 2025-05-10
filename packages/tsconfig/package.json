@@ -1,0 +1,12 @@
+{
+    "name": "@mono_mono/tsconfig",
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "version": "pnpm version",
+        "deploy": "pnpm publish"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}
